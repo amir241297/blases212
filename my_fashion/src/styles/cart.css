@@ -1,0 +1,17 @@
+
+#cart_div>div{
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    width: 30%;
+    margin: auto;
+    margin-top: 20px;
+}
+img{
+    width: 50%;
+}
+.price_div{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+}

@@ -1,0 +1,14 @@
+form{
+    border: 1px solid teal;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+#userTypeDiv{
+    display: flex;
+    justify-content: space-around;
+}
+#userTypeDiv>div{
+    display: flex;
+}
