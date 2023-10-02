@@ -2,7 +2,7 @@ import React, { createContext, useReducer } from 'react'
 export const AuthContext = createContext()
 
 const initialState = {
-    isAuth: true,
+    isAuth: false,
     userType: "",
     token: "",
     toggle: true,
